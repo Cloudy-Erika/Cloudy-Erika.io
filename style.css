@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+
+background-color:#f0d4a3 ;
+font-family: 'Times New Roman';
+font-size: 25px;
+-webkit-text-fill-color: #2a1e13;
+border: 8px ridge ;; border-radius:10px;}
+img {
+  border: 5px solid #866241;
+}
